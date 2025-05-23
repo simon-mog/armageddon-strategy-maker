@@ -1,1 +1,1 @@
-# armageddon-storategy-maker
+# armageddon-strategy-maker
